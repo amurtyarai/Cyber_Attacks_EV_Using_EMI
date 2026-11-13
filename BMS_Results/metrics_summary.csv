@@ -1,0 +1,5 @@
+Model,Evaluation,Accuracy,Precision,Recall,F1,"Confusion [[TN,FP],[FN,TP]]"
+A: per-sample (README features),Test (4 held-out runs),0.7,1.0,0.4,0.5714,"[[100002, 0], [60003, 39999]]"
+A: per-sample (README features),Leave-one-run-out (16 runs),0.1414,0.042,0.0329,0.0369,"[[100002, 300006], [386860, 13148]]"
+B: windowed ripple features,Test (4 held-out runs),1.0,1.0,1.0,1.0,"[[2000, 0], [0, 2000]]"
+B: windowed ripple features,Leave-one-run-out (16 runs),1.0,1.0,1.0,1.0,"[[8000, 0], [0, 8000]]"
