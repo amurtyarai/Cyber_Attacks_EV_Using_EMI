@@ -1,0 +1,7 @@
+Metric,Value
+Total Samples,"800,016"
+Total Simulation Runs,16
+Normal State Samples (0),"400,008"
+Attack State Samples (1),"400,008"
+Sampling Frequency (Hz),500 Hz (2 ms per sample)
+Total Features Available,19
